@@ -1,10 +1,10 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1d3c4d4bea6741cc60e0b31b41b346c3",
+    "content-hash": "13a7d247513c705b8dd35caa56070bc6",
     "packages": [
         {
             "name": "classpreloader/classpreloader",
@@ -162,20 +162,20 @@
         },
         {
             "name": "germey/geetest",
-            "version": "v2.0.2",
+            "version": "v3.0.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Germey/LaravelGeetest.git",
-                "reference": "9306d626081aac8004c235f33fabf95283125062"
+                "reference": "311e9b4e496b4e44cc570f29a2e17028a3454652"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://files.phpcomposer.com/files/Germey/LaravelGeetest/9306d626081aac8004c235f33fabf95283125062.zip",
-                "reference": "9306d626081aac8004c235f33fabf95283125062",
+                "url": "https://api.github.com/repos/Germey/LaravelGeetest/zipball/311e9b4e496b4e44cc570f29a2e17028a3454652",
+                "reference": "311e9b4e496b4e44cc570f29a2e17028a3454652",
                 "shasum": ""
             },
             "require": {
-                "laravel/framework": "5.0.*|5.1.*|5.2.*|5.3.*|5.4.*",
+                "laravel/framework": "5.*",
                 "php": ">=5.6.0"
             },
             "require-dev": {
@@ -185,7 +185,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "2.1-dev"
+                    "dev-master": "3.1-dev"
                 }
             },
             "autoload": {
@@ -209,7 +209,7 @@
                 "geetest",
                 "laravel"
             ],
-            "time": "2017-02-19T09:28:32+00:00"
+            "time": "2018-07-12T12:06:28+00:00"
         },
         {
             "name": "jakub-onderka/php-console-color",
@@ -1985,12 +1985,12 @@
             "version": "0.9.4",
             "source": {
                 "type": "git",
-                "url": "https://github.com/padraic/mockery.git",
+                "url": "https://github.com/mockery/mockery.git",
                 "reference": "70bba85e4aabc9449626651f48b9018ede04f86b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/padraic/mockery/zipball/70bba85e4aabc9449626651f48b9018ede04f86b",
+                "url": "https://api.github.com/repos/mockery/mockery/zipball/70bba85e4aabc9449626651f48b9018ede04f86b",
                 "reference": "70bba85e4aabc9449626651f48b9018ede04f86b",
                 "shasum": ""
             },
